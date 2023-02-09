@@ -1,0 +1,11 @@
+
+
+
+
+
+************************PIN DE ADMINISTRADOR********************
+PIN: 12345
+
+ESTO LE PERMITIRÁ INGRESAR, VER, MODIFICAR Y BORRAR REGISTROS.
+
+****************************************************************
